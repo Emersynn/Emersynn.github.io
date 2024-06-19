@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Mano Svetainė</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mano Svetainė</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jun 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puslapis su paveiksliuku</title>
+      <link>http://localhost:1313/posts/puslapis-su-paveiksliuku/</link>
+      <pubDate>Wed, 19 Jun 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/puslapis-su-paveiksliuku/</guid>
+      <description>Puslapis ir kodas Bandysim įdėti paveikslėlį ir kodo citatą Hugo tinklalapyje.&#xA;Paveikslėlis Kodo citata &amp;lt;!DOCTYPE html&amp;gt; &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Hello World&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body&amp;gt; &amp;lt;h1&amp;gt;Hello, world!&amp;lt;/h1&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt; </description>
+    </item>
     <item>
       <title>Pirmas Puslapis</title>
-      <link>http://example.org/posts/pirmas-puslapis/</link>
+      <link>http://localhost:1313/posts/pirmas-puslapis/</link>
       <pubDate>Wed, 12 Jun 2024 12:00:00 +0000</pubDate>
-      <guid>http://example.org/posts/pirmas-puslapis/</guid>
+      <guid>http://localhost:1313/posts/pirmas-puslapis/</guid>
       <description>Hello World!&#xA;Miau Katės – vieni iš populiariausių ir mieliausių naminių gyvūnų visame pasaulyje&#xA;Faktai Kačių skonio receptoriai išsiskiria tuo, kad neleidžia katėms pajausti saldumo. Todėl saldžiais gardėsiais keturkojų geriau nemaitinti: saldaus skonio jos nepajaus, o saldūs produktai gali sukelti rimtas katės sveikatos problemas. Katės – tikros miegalės. Manoma, kad jos pramiega net du trečdalius savo gyvenimo. Siekdamos aprūpinti savo organizmą vandeniu, katės gali gerti sūrų, pavyzdžiui, jūros vandenį. Šią galimybę lemia tai, kad kačių ir žmonių inkstų sistemos skiriasi: katės inkstai gali filtruoti druską ir tuomet organizmo reikmėms sėkmingai panaudoti vandenį.</description>
     </item>
   </channel>
